@@ -9,7 +9,22 @@
                 "vitality": "8",
                 "save": "9"
             },
-            "weapons": [],
+            "ranged_weapons": [
+                {
+                    "name": "bow",
+                    "attacks": "1",
+                    "range": "30",
+                    "power": "4"
+                }
+            ],
+            "melee_weapons": [
+                {
+                    "name": "sword",
+                    "attacks": "2",
+                    "range": "0",
+                    "power": "5"
+                }
+            ],
             "abilities": []
         },
         {
@@ -21,7 +36,8 @@
                 "vitality": "8",
                 "save": "9"
             },
-            "weapons": [],
+            "ranged_weapons": [],
+            "melee_weapons": [],
             "abilities": []
         },
         {
@@ -33,11 +49,12 @@
                 "vitality": "8",
                 "save": "9"
             },
-            "weapons": [],
+            "ranged_weapons": [],
+            "melee_weapons": [],
             "abilities": []
         }
     ],
-    "imgur_url": "https://i.imgur.com/1wHQLo1.png",
+    "imgur_url": "https://i.imgur.com/eB77KYe.png",
     "num_cards": 3,
     "cards_per_row": 10,
     "cards_per_col": 1
